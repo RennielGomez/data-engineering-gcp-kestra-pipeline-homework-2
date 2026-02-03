@@ -4,7 +4,7 @@
 
 **Backfill and execute using the `kestra-gcs-pipeline.yaml` file**
 
-![Backfill Execution](<1. Backfill Jan to Jul .png>)
+![Backfill Execution](<1. Backfill Jan  to Jul .png>)
 
 ---
 
